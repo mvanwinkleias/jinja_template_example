@@ -9,11 +9,15 @@ TEMPLATE_FILE = "template.html.jinja"
 people = [
     {
         'name' : 'Marty',
-        'dog' : 'Nani',
+        'pet' : 'Nani',
     },
+	{
+		'name' : 'Dima',
+		'pet' : 'Scotchy',
+	},
     {
         'name' : 'Josh',
-        'dog' : 'Hugo',
+        'pet' : 'Hugo',
     },
 ]
 
