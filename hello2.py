@@ -11,10 +11,10 @@ people = [
         'name' : 'Marty',
         'pet' : 'Nani',
     },
-	{
-		'name' : 'Dima',
-		'pet' : 'Scotchy',
-	},
+    {
+        'name' : 'Dima',
+        'pet' : 'Scotchy',
+    },
     {
         'name' : 'Josh',
         'pet' : 'Hugo',
