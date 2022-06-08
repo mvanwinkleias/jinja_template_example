@@ -22,5 +22,5 @@ people = [
 ]
 
 template = templateEnv.get_template(template_file)
-outputText = template.render(my_collection=people)  # this is where to put args to the template renderer
+outputText = template.render(my_collection=people)
 print(outputText)
